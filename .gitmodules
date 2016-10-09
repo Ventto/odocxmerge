@@ -1,0 +1,4 @@
+[submodule "lib/Open-XML-SDK"]
+	path = lib/Open-XML-SDK
+	url = https://github.com/OfficeDev/Open-XML-SDK.git
+	branch = SystemIOPackaging
