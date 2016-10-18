@@ -1,6 +1,12 @@
 ODocxMerge
 ==========
 
+[![Build Status](https://travis-ci.org/Ventto/odocxmerge.svg?branch=master)](https://travis-ci.org/Ventto/odocxmerge)
+[![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](https://github.com/Ventto/odocxmerge/blob/master/LICENSE.txt)
+[![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg?style=flat)](https://github.com/Ventto/odocxmerge/releases)
+[![Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat)](https://github.com/Ventto/odocxmerge/)
+
+
 *ODocxMerge is a simple tool using Open-XML-SDK and Mono to merge two docx files
 into one.*
 
@@ -10,6 +16,23 @@ Requirements
 ------------
 
 *mono* - Free implementation of the .NET platform including runtime and compiler
+
+
+### Ubuntu
+
+* [Update mono package repository](http://www.mono-project.com/docs/getting-started/install/linux/)
+
+* Install packages:
+
+```
+$ sudo apt-get install mono-devel mono-mcs
+```
+
+### Arch
+
+```
+$ sudo pacman -S mono
+```
 
 Modules
 -------
