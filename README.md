@@ -2,7 +2,7 @@ ODocxMerge
 ==========
 
 [![Build Status](https://travis-ci.org/Ventto/odocxmerge.svg?branch=master)](https://travis-ci.org/Ventto/odocxmerge)
-[![License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat)](https://github.com/Ventto/odocxmerge/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Ventto/odocxmerge/blob/master/LICENSE)
 [![Version](https://img.shields.io/badge/version-v0.1.0-blue.svg?style=flat)](https://github.com/Ventto/odocxmerge/releases)
 [![Status](https://img.shields.io/badge/status-experimental-orange.svg?style=flat)](https://github.com/Ventto/odocxmerge/)
 
