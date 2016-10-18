@@ -19,3 +19,6 @@ before_install:
 install:
   - make
 
+script:
+  - ls -l | grep odocxmerge.exe
+
