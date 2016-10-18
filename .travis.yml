@@ -14,7 +14,7 @@ before_install:
   - echo "deb http://download.mono-project.com/repo/debian wheezy-libtiff-compat main"
     | sudo tee -a /etc/apt/sources.list.d/mono-xamarin.list
   - sudo apt-get update
-  - sudo apt-get install mono-complete
+  - sudo apt-get install mono-devel mono-mcs
 
 install:
   - make
